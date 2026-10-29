@@ -1,3 +1,4 @@
 .env
 chroma_dir/
 faiss_dir/
+cropped_pdf/
